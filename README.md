@@ -11,7 +11,7 @@ This an an open source interface for Uniswap - a protocol for decentralized exch
 - Twitter: [@UniswapExchange](https://twitter.com/UniswapExchange)
 - Reddit: [/r/Uniswap](https://www.reddit.com/r/UniSwap/)
 - Email: [contact@uniswap.io](mailto:contact@uniswap.io)
-- Discord: [Uniswap](https://discord.gg/Y7TF6QA)
+- Discord: [Uniswap](https://discord.com/invite/uniswap)
 - Whitepaper: [Link](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)
   
 ## Run Uniswap Locally
